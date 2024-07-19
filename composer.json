@@ -1,0 +1,16 @@
+{
+    "name": "mik/lesson12",
+    "autoload": {
+        "psr-4": {
+            "Mik\\Lesson12\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mik"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
